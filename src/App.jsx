@@ -177,7 +177,7 @@ function App() {
 
     try {
       const response = await fetch(
-        "http://localhost:5000/api/study",
+        "https://studymate-ai-x2ap.onrender.com/api/study",
         {
           method: "POST",
 
