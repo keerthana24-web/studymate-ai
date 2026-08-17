@@ -75,6 +75,29 @@ Summary + Flashcards + Quiz are displayed
 * Render — backend deployment
 
 ---
+---
+
+## 📸 Screenshots
+
+### Home Page
+![StudyMate AI Home](screenshots/home.png)
+
+### Study Topic Input
+![Study Topic Input](screenshots/input.png)
+
+### Generated Study Set
+![Generated Study Set](screenshots/generated-output.png)
+
+### Interactive Flashcards
+![Interactive Flashcards](screenshots/flashcards.png)
+
+### Interactive Quiz
+![Interactive Quiz](screenshots/quiz.png)
+
+### Quiz Result
+![Quiz Result](screenshots/quiz-result.png)
+
+---
 
 ## 📂 Project Structure
 
